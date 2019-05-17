@@ -1,0 +1,5 @@
+[package]
+description = SumStats-Deepcluster integration
+tags = cluster, groups, sumstats
+version = 0.1.0
+script_dir = scripts
